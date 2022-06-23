@@ -1,0 +1,15 @@
+C:\Workspace\JenkinsProject\jenkinsCICD\bin\Debug\net6.0\jenkinsCICD.exe
+C:\Workspace\JenkinsProject\jenkinsCICD\bin\Debug\net6.0\jenkinsCICD.deps.json
+C:\Workspace\JenkinsProject\jenkinsCICD\bin\Debug\net6.0\jenkinsCICD.runtimeconfig.json
+C:\Workspace\JenkinsProject\jenkinsCICD\bin\Debug\net6.0\jenkinsCICD.dll
+C:\Workspace\JenkinsProject\jenkinsCICD\bin\Debug\net6.0\jenkinsCICD.pdb
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.csproj.AssemblyReference.cache
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.AssemblyInfoInputs.cache
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.AssemblyInfo.cs
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.csproj.CoreCompileInputs.cache
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.dll
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\refint\jenkinsCICD.dll
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.pdb
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\jenkinsCICD.genruntimeconfig.cache
+C:\Workspace\JenkinsProject\jenkinsCICD\obj\Debug\net6.0\ref\jenkinsCICD.dll
