@@ -5,6 +5,7 @@
         {
             // add comment
             Console.WriteLine("Hello, Welcome to Capgemini!");
+            Console.WriteLine("Hello");
         }
     }
 }
